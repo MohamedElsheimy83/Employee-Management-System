@@ -1,4 +1,4 @@
-# Employees-Management-System-Java
+# Employee-Management-System-Java
 Object Oriented Programming Project - Java
 
 ## context  
